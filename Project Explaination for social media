@@ -1,0 +1,19 @@
+age: Age of the user
+gender: Gender of the user
+time_spent: Time spent on a platform (possibly in hours)
+platform: Social media platform used
+interests: User's interests
+location: Location of the user
+demographics: Demographic type (e.g., Urban, Sub_Urban)
+profession: Profession of the user
+income: User's income
+indebt: Whether the user is in debt
+isHomeOwner: Whether the user owns a home
+Owns_Car: Whether the user owns a car
+
+The project segmentation Analysis using clustering techniques
+1. Data pre-processing
+2. Feature Selection
+3. Clustering
+4. Analysis
+
